@@ -1,1 +1,1 @@
-# Clustering-Analysis-for-Ge-ez-Ethiopic-Image-Data
+# Clustering Analysis for Ge-ez Ethiopic Image Data
